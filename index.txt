@@ -2,5 +2,5 @@
 New project
 </head>
 <body>
-Hello, dear Tanya
+Good Bye, dear 
 </body>
