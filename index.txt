@@ -1,0 +1,6 @@
+<head>
+New project
+</head>
+<body>
+Hello, dear Dolly
+</body>
