@@ -2,5 +2,5 @@
 New project
 </head>
 <body>
-Hello, dear Dolly
+Hello, dear Tanya
 </body>
